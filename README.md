@@ -59,5 +59,3 @@ Develop and implement incident detection and response procedures by leveraging a
 - Developed comprehensive documentation to support ongoing security improvements and audit readiness.
 
 ---
-
-This Markdown file is structured and ready for your GitHub Pages. Save it as `idr_project.md` in your repository, and GitHub Pages will render it as a clean and professional project portfolio. Let me know if you need help with additional styling or deployment!
